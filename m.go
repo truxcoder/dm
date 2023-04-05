@@ -9,7 +9,7 @@ import (
 	"context"
 	"database/sql"
 	"database/sql/driver"
-	"github.com/Insua/dm/parser"
+	"github.com/truxcoder/dm/parser"
 	"fmt"
 	"golang.org/x/text/encoding"
 	"sync/atomic"

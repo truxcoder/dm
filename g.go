@@ -5,7 +5,7 @@
 package dm
 
 import (
-	"github.com/Insua/dm/util"
+	"github.com/truxcoder/dm/util"
 	"fmt"
 	"math"
 	"os"

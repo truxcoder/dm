@@ -7,7 +7,7 @@ package dm
 import (
 	"bytes"
 	"crypto/tls"
-	"github.com/Insua/dm/security"
+	"github.com/truxcoder/dm/security"
 	"net"
 	"strconv"
 	"time"
