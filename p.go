@@ -1,4 +1,11 @@
 /*
+ * @Author: truxcoder
+ * @Date: 2023-04-05 16:07:49
+ * @LastEditTime: 2023-04-05 16:08:58
+ * @LastEditors: truxcoder
+ * @Description: 
+ */
+/*
  * Copyright (c) 2000-2018, 达梦数据库有限公司.
  * All rights reserved.
  */
@@ -8,7 +15,7 @@ import (
 	"context"
 	"database/sql"
 	"database/sql/driver"
-	"github.com/Insua/dm/i18n"
+	"github.com/truxcoder/dm/i18n"
 	"sync"
 )
 
