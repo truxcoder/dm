@@ -8,23 +8,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/dm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dm.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.go" beforeDir="false" afterPath="$PROJECT_DIR$/a.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/i.go" beforeDir="false" afterPath="$PROJECT_DIR$/i.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n.go" beforeDir="false" afterPath="$PROJECT_DIR$/n.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q.go" beforeDir="false" afterPath="$PROJECT_DIR$/q.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/r.go" beforeDir="false" afterPath="$PROJECT_DIR$/r.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/u.go" beforeDir="false" afterPath="$PROJECT_DIR$/u.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/y.go" beforeDir="false" afterPath="$PROJECT_DIR$/y.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/zzc.go" beforeDir="false" afterPath="$PROJECT_DIR$/security/zzc.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/za.go" beforeDir="false" afterPath="$PROJECT_DIR$/za.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ze.go" beforeDir="false" afterPath="$PROJECT_DIR$/ze.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zf.go" beforeDir="false" afterPath="$PROJECT_DIR$/zf.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zi.go" beforeDir="false" afterPath="$PROJECT_DIR$/zi.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zp.go" beforeDir="false" afterPath="$PROJECT_DIR$/zp.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zq.go" beforeDir="false" afterPath="$PROJECT_DIR$/zq.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zs.go" beforeDir="false" afterPath="$PROJECT_DIR$/zs.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zw.go" beforeDir="false" afterPath="$PROJECT_DIR$/zw.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zx.go" beforeDir="false" afterPath="$PROJECT_DIR$/zx.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zzk.go" beforeDir="false" afterPath="$PROJECT_DIR$/zzk.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zzm.go" beforeDir="false" afterPath="$PROJECT_DIR$/zzm.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zzo.go" beforeDir="false" afterPath="$PROJECT_DIR$/zzo.go" afterDir="false" />
     </list>
