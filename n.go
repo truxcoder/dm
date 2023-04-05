@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"context"
 	"database/sql/driver"
-	"dm/util"
+	"github.com/truxcoder/dm/util"
 	"net"
 	"net/url"
 	"os"

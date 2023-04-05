@@ -5,7 +5,7 @@
 package dm
 
 import (
-	"dm/util"
+	"github.com/truxcoder/dm/util"
 	"math"
 	"strconv"
 	"strings"

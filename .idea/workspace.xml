@@ -4,43 +4,77 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60815f1d-b7b0-4cb6-9d59-2f0085e8c1dd" name="变更" comment="">
+    <list default="true" id="8ff9289b-cc67-42c7-ac88-cba98e86aae6" name="变更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/dm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.go" beforeDir="false" afterPath="$PROJECT_DIR$/a.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/g.go" beforeDir="false" afterPath="$PROJECT_DIR$/g.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m.go" beforeDir="false" afterPath="$PROJECT_DIR$/m.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p.go" beforeDir="false" afterPath="$PROJECT_DIR$/p.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i.go" beforeDir="false" afterPath="$PROJECT_DIR$/i.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n.go" beforeDir="false" afterPath="$PROJECT_DIR$/n.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/q.go" beforeDir="false" afterPath="$PROJECT_DIR$/q.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/r.go" beforeDir="false" afterPath="$PROJECT_DIR$/r.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/u.go" beforeDir="false" afterPath="$PROJECT_DIR$/u.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/y.go" beforeDir="false" afterPath="$PROJECT_DIR$/y.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/za.go" beforeDir="false" afterPath="$PROJECT_DIR$/za.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ze.go" beforeDir="false" afterPath="$PROJECT_DIR$/ze.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zf.go" beforeDir="false" afterPath="$PROJECT_DIR$/zf.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zi.go" beforeDir="false" afterPath="$PROJECT_DIR$/zi.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zp.go" beforeDir="false" afterPath="$PROJECT_DIR$/zp.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zq.go" beforeDir="false" afterPath="$PROJECT_DIR$/zq.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zs.go" beforeDir="false" afterPath="$PROJECT_DIR$/zs.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zw.go" beforeDir="false" afterPath="$PROJECT_DIR$/zw.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zx.go" beforeDir="false" afterPath="$PROJECT_DIR$/zx.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zzk.go" beforeDir="false" afterPath="$PROJECT_DIR$/zzk.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zzm.go" beforeDir="false" afterPath="$PROJECT_DIR$/zzm.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zzo.go" beforeDir="false" afterPath="$PROJECT_DIR$/zzo.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../Program Files/Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="25606d94hT9rVqls6bAdnEkoFRB" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2O07mMvfxYc1tMbKDHMDtSlyYna" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
-    <property name="go.formatter.settings.were.checked" value="true" />
-    <property name="go.import.settings.migrated" value="true" />
-    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "C:/Users/truxcoder"
+  }
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VgoProject">
-    <integration-enabled>true</integration-enabled>
+    <settings-migrated>true</settings-migrated>
   </component>
 </project>

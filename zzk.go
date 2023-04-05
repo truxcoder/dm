@@ -6,8 +6,8 @@ package dm
 
 import (
 	"bytes"
-	"dm/parser"
-	"dm/util"
+	"github.com/truxcoder/dm/parser"
+	"github.com/truxcoder/dm/util"
 	"strconv"
 	"strings"
 )

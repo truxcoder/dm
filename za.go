@@ -7,7 +7,7 @@ package dm
 
 import (
 	"bytes"
-	"dm/i18n"
+	"github.com/truxcoder/dm/i18n"
 	"fmt"
 	"runtime"
 )
